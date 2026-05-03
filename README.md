@@ -19,3 +19,5 @@ the required fuctionality are listed below. For the full list
 of available registres, see the datasheet for MPU6050.
 The best available resource about MPU6050 can be found here:
 https://www.i2cdevlib.com/devices/mpu6050 (by Jeff Rowberg)
+
+![micropython_mpu6050](MPU6050_pinout.png)
